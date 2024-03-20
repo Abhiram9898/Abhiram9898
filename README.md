@@ -1,4 +1,10 @@
-### Hi there 👋
+### 💫 About Me:
+#👋 Hi there! I am a MCA Student at Graphic Era Hill University 🎓 and a proud alumnus of Arcade Business College,Bihar-Patna 🎓, where I completed my BCA. 💻
+
+Passionate about ML 🤖, Full Stack 🌐. Worked on exciting projects in Machine Learning, Deep Learning. Always learning and growing with the latest advancements. 📈💻🚀
+
+If you share this passion, or simply want to connect, feel free to reach out to me on LinkedIn 🤝: https://www.linkedin.com/in/abhiram-kumar-341ab5140/ 💼
+Let's network and explore the exciting world of computer science together! 🌐💡
 
 <!--
 **Abhiram9898/Abhiram9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
