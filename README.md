@@ -1,5 +1,5 @@
 ### 💫 About Me:
-#👋 Hi there! I am a MCA Student at Graphic Era Hill University 🎓 and a proud alumnus of Arcade Business College,Bihar-Patna 🎓, where I completed my BCA. 💻
+👋 Hi there! I am a MCA Student at Graphic Era Hill University 🎓 and a proud alumnus of Arcade Business College,Bihar-Patna 🎓, where I completed my BCA. 💻
 
 Passionate about ML 🤖, Full Stack 🌐. Worked on exciting projects in Machine Learning, Deep Learning. Always learning and growing with the latest advancements. 📈💻🚀
 
