@@ -11,7 +11,7 @@ Let's network and explore the exciting world of computer science together! 🌐�
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram9898" alt="abhiram9898" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,Laravel**
+- 🌱 I’m currently learning **MERN Full Stack Devlopment**
 
 - 📫 How to reach me **abhiramkumar2000@gmail.com**
 
