@@ -2,13 +2,14 @@
 
 # Hi, I'm Abhiram Kumar 👋
 
-### MCA Student · Full-Stack Developer · Machine Learning Enthusiast
+### Software Engineer (SDE-1) · Full-Stack Developer · Backend Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+intelligent+and+useful+applications;Exploring+Machine+Learning+%26+Deep+Learning;Learning+the+MERN+stack;Always+curious.+Always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+scalable+fintech+applications;Engineering+secure+REST+APIs;Optimizing+backend+performance;Always+curious.+Always+building.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abhiram9898&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/abhiram9898)
 [![GitHub Followers](https://img.shields.io/github/followers/abhiram9898?label=Followers&style=for-the-badge&logo=github)](https://github.com/abhiram9898?tab=followers)
 [![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiramkumar2000@gmail.com)
+
 
 </div>
 
@@ -16,12 +17,15 @@
 
 ## About Me
 
-I am an **MCA student at Graphic Era Hill University** and a BCA graduate from **Arcade Business College, Patna**. I enjoy turning ideas into practical software and exploring how machine learning can solve real-world problems.
+I am a **Software Engineer (SDE-1) at Opas Bizz Private Limited**, building scalable fintech and full-stack applications. I specialize in backend development, secure REST APIs, performance optimization, and modern web technologies. Previously, I worked as a **MERN Intern at GeeksforGeeks**.
 
-- 🌱 Currently learning **MERN full-stack development**
-- 🤖 Interested in **Machine Learning, Deep Learning, and Computer Vision**
-- 💻 Experienced with projects across **software development and data science**
-- 🤝 Open to collaborating on meaningful and innovative projects
+- 🔭 Currently building **transaction dashboards, payment workflows, and financial reporting systems**
+- ⚡ Improved high-volume query response times by **30%** using Redis caching and database indexing
+- 🔐 Experienced in secure authentication, role-based authorization, and session management
+- 💻 Core stack: **React, Node.js, Express.js, MongoDB, PostgreSQL, Redis, and TypeScript**
+- ☁️ Comfortable working with **AWS, Docker, Git, and Linux**
+- 🎓 MCA graduate from **Graphic Era Hill University**
+- 🤝 Open to collaborating on impactful full-stack and backend projects
 - 📫 Reach me at **[abhiramkumar2000@gmail.com](mailto:abhiramkumar2000@gmail.com)**
 
 ## Tech Stack
